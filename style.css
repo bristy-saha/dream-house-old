@@ -24,7 +24,7 @@ img {
   width: 100%;
 }
 body {
-  background-color: azure;
+  background-color: rgb(215, 224, 224);
   color: var(--text-color);
 }
 section {
